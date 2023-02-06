@@ -1,0 +1,89 @@
+{
+  "note": [
+    {
+      "id": "d34c0af0-8e60-4441-91c9-a5679fa206ed",
+      "isPinned": true,
+      "updatedAt": "Mon, 06 Feb 2023 03:00:39 GMT",
+      "title": "dista",
+      "content": "the most beautifull girl i ever seen",
+      "tags": [],
+      "color": "#ffffcc",
+      "priority": "low",
+      "isArchived": false,
+      "createdAt": "Mon, 06 Feb 2023 02:44:21 GMT",
+      "isRead": false,
+      "isSoftDelete": false,
+      "date": "Mon, 06 Feb 2023 02:44:21 GMT"
+    },
+    {
+      "id": "193f7519-7ddd-47e5-a9f2-c0bca7faa5a0",
+      "isSoftDelete": false,
+      "createdAt": "Mon, 06 Feb 2023 02:57:58 GMT",
+      "updatedAt": "Mon, 06 Feb 2023 02:57:58 GMT",
+      "isArchived": false,
+      "isPinned": false,
+      "isRead": false,
+      "date": "Mon, 06 Feb 2023 02:57:58 GMT",
+      "title": "asdfdasf",
+      "content": "asdfdsfds",
+      "tags": [
+        {
+          "id": "1f07c3db-7cad-4052-ac51-0f19cc17daef",
+          "value": "indonesia"
+        },
+        {
+          "id": "a1701310-41c2-4341-b802-a9376d610331",
+          "value": "masyarakat"
+        },
+        {
+          "id": "c24a7956-eef5-44e8-869c-27171fe01c1a",
+          "value": "sosial"
+        }
+      ],
+      "color": "#ffcccc",
+      "priority": "low"
+    },
+    {
+      "id": "5dad2a07-2924-4ce1-baad-c037cd9068de",
+      "createdAt": "Mon, 06 Feb 2023 02:58:55 GMT",
+      "updatedAt": "Mon, 06 Feb 2023 02:58:55 GMT",
+      "isArchived": false,
+      "isPinned": false,
+      "isRead": false,
+      "isSoftDelete": false,
+      "date": "Mon, 06 Feb 2023 02:58:55 GMT",
+      "title": "pdip",
+      "content": "partai",
+      "tags": [
+        {
+          "id": "74e7023b-5e14-49f6-8769-850451a0dac6",
+          "value": "politics"
+        }
+      ],
+      "color": "#ffcccc",
+      "priority": "low"
+    }
+  ],
+  "tag": [
+    {
+      "id": "c24a7956-eef5-44e8-869c-27171fe01c1a",
+      "value": "sosial"
+    },
+    {
+      "id": "a1701310-41c2-4341-b802-a9376d610331",
+      "value": "masyarakat"
+    },
+    {
+      "id": "1f07c3db-7cad-4052-ac51-0f19cc17daef",
+      "value": "indonesia"
+    },
+    {
+      "id": "74e7023b-5e14-49f6-8769-850451a0dac6",
+      "value": "politics"
+    },
+    {
+      "id": "392746ac-8e4e-4f33-a323-40639cc6a332",
+      "value": "romantics"
+    }
+  ]
+}
